@@ -17,6 +17,10 @@ READ ME: https://www.behance.net/gallery/181447165/Google-Calendar-Dark-Mode-CSS
     color: white !important;
 }
 
+/* horizontal divider  */ body[data-viewfamily=EVENT] .SGWAac, body[data-viewfamily=SCHEDULE] .SGWAac, body[data-viewfamily=SEARCH] .SGWAac, body[data-viewfamily=SETTINGS] .SGWAac, body[data-viewfamily=TRASH] .SGWAac, body[data-viewfamily=TASKS] .SGWAac {
+    border-color: #414872 !important;
+} 
+
 /* --- Nav SideBar --- */
 /* Side Bar */ .SGWAac {
     background-color: #191B2C !important;
@@ -59,11 +63,11 @@ READ ME: https://www.behance.net/gallery/181447165/Google-Calendar-Dark-Mode-CSS
     color: white !important; 
 }
 
-/* Dropdown (Background) #2D314F */ .INBYpd:not(:disabled).VfPpkd-ksKsZd-mWPk3d-OWXEXe-AHe6Kc-XpnDCe, .q6oraf .VfPpkd-StrnGf-rymPhb, .OwNvm, ul.VfPpkd-rymPhb.r6B9Fd.bwNLcf.P2Hi5d.VfPpkd-OJnkse, .OA0qNb.ncFHed, .KjAqB .B7PAmc {
+/* Dropdown (Background) #2D314F */ .INBYpd:not(:disabled).VfPpkd-ksKsZd-mWPk3d-OWXEXe-AHe6Kc-XpnDCe, .q6oraf .VfPpkd-StrnGf-rymPhb, .OwNvm, ul.VfPpkd-rymPhb.r6B9Fd.bwNLcf.P2Hi5d.VfPpkd-OJnkse, .OA0qNb.ncFHed, .KjAqB .B7PAmc, .JAPqpe.K0NPx {
     background: #2D314F !important; 
 }
 
-/* Selection of Dropdown(Background) */ .r6B9Fd .VfPpkd-rymPhb-ibnC6b.VfPpkd-rymPhb-ibnC6b-OWXEXe-gk6SMd, .nBhvye .OA0qNb .LMgvRb.KKjvXb {
+/* Selection of Dropdown(Background) */ .r6B9Fd .VfPpkd-rymPhb-ibnC6b.VfPpkd-rymPhb-ibnC6b-OWXEXe-gk6SMd, .nBhvye .OA0qNb .LMgvRb.KKjvXb, span.z80M1.QJXRJc.FwR7Pc{
     background-color: #505B89 !important; 
 }
 
@@ -73,7 +77,6 @@ READ ME: https://www.behance.net/gallery/181447165/Google-Calendar-Dark-Mode-CSS
 
 /* Background */ :root {
     --surface: #1D1F2B !important; 
-    --hairline: #414872 !important; /* Primary border color */
 }
 
 /* --- Calendar Frame --- */
