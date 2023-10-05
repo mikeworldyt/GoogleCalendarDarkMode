@@ -1,0 +1,131 @@
+/* Mike World TM, Rumi-November (CC BY-NC) Attribution-NonCommercial
+
+READ ME: https://www.behance.net/gallery/181447165/Google-Calendar-Dark-Mode-CSS
+*/
+/* ███ CUSTOM COLOR ███ */
+/* --- Main Nav Bar --- */
+/* Header bar*/ header.gb_Na  {
+    background-color: #191B2C !important;
+} 
+
+/* Logo Text */ header.NkK3Fc span[role=heading] {
+    color: white !important;
+}
+
+/* Week Counter */ .KPyFeb.C0t7Sd.HAir {
+    background-color: #12152B !important;
+    color: white !important;
+}
+
+/* horizontal divider  */ body[data-viewfamily=EVENT] .SGWAac, body[data-viewfamily=SCHEDULE] .SGWAac, body[data-viewfamily=SEARCH] .SGWAac, body[data-viewfamily=SETTINGS] .SGWAac, body[data-viewfamily=TRASH] .SGWAac, body[data-viewfamily=TASKS] .SGWAac {
+    border-color: #414872 !important;
+} 
+
+/* --- Nav SideBar --- */
+/* Side Bar */ .SGWAac {
+    background-color: #191B2C !important;
+}
+
+/* Date Picker */ .q1j8lf {
+    background-color: #191B2C !important;
+}
+
+:root {
+    --fab: rgb(65 72 114 / 50%) !important; /* Transparent Button */
+    --fab-hover: #414872 !important; /* Hover on Transparent Button */
+    --textfield-surface: #2D314F!important; /* Week Row */
+    --secondary-variant: #414872 !important; /* Selectioned Days */
+}
+
+/* Day of Another Month */ span.W0m3G.Io4vne.elYzab-cXXICe-Hjleke.elYzab-DaY83b-ppHlrf.uGtG7d.oUckZe .r4nke {
+
+    color: #585353 ;
+}
+
+/* --- Global Elements --- */
+/* Input Text */ .VfPpkd-fmcmS-wGMbrd {
+    color: white !important;
+}
+
+/* Buttons (Text) */ span.VfPpkd-vQzf8d, .VfPpkd-uusGie-fmcmS, input.e0yuIb, .jT5e9 {
+    color: white !important;
+}
+
+/* Buttons (Fields) */ label.VfPpkd-fmcmS-yrriRe.VfPpkd-fmcmS-yrriRe-OWXEXe-mWPk3d.VfPpkd-ksKsZd-mWPk3d.VfPpkd-fmcmS-yrriRe-OWXEXe-di8rgd-V67aGc.VfPpkd-fmcmS-yrriRe-OWXEXe-MFS4be.WmnPA.gOPnwc, .VfPpkd-Jh9lGc, .hqBSCb:not(.VfPpkd-O1htCb-OWXEXe-OWB6Me) .VfPpkd-TkwUic, .xSJpA.nXeosb.QGLPie.nXeosb.sfX1i.CDELXb, .ry3kXd .MocG8c.KKjvXb, div#xDescIn, .Erb9le.CIy9F {
+    background: #2D314F !important;
+}
+
+/* OnBackground (Text & icons) */ li, i, p, path, span, .VfPpkd-V67aGc, div#xTmZn, legend.hGcgEd.zHGix, .toUqff.HRaT6d, .ahrbyf, .agOyMd div.UfeRlc, .AzuXid.O2VjS.CyPPBf, .xjKiLb>span, svg.NMm5M, .mr0WL, .rSoRzd, .MmhHI.qAeuG.N4XV7d {
+    color: white !important;
+}
+
+/* Dropdown (Text) --------- */ span.VfPpkd-StrnGf-rymPhb-b9t22c, .VfPpkd-rymPhb-fpDzbe-fmcmS {
+    color: white !important; 
+}
+
+/* Dropdown (Background) #2D314F */ .INBYpd:not(:disabled).VfPpkd-ksKsZd-mWPk3d-OWXEXe-AHe6Kc-XpnDCe, .q6oraf .VfPpkd-StrnGf-rymPhb, .OwNvm, ul.VfPpkd-rymPhb.r6B9Fd.bwNLcf.P2Hi5d.VfPpkd-OJnkse, .OA0qNb.ncFHed, .KjAqB .B7PAmc {
+    background: #2D314F !important; 
+}
+
+/* Selection of Dropdown(Background) */ .r6B9Fd .VfPpkd-rymPhb-ibnC6b.VfPpkd-rymPhb-ibnC6b-OWXEXe-gk6SMd, .nBhvye .OA0qNb .LMgvRb.KKjvXb {
+    background-color: #505B89 !important; 
+}
+
+/* Scrollbar  */ ::-webkit-scrollbar-thumb {
+    background-color: #414872 !important;
+}
+
+/* Background */ :root {
+    --surface: #1D1F2B !important; 
+}
+
+/* --- Calendar Frame --- */
+/* Title on box-event Text */ .FAxxKc {
+    color: #191B2C;
+}
+
+/* Time on box-event Text */ .Jmftzc.gVNoLb.EiZ8Dd, span.A6wOnd {
+    color: #191B2C;
+}
+
+ /* Current day (Background) */ :root {
+    --primary: #8C9BF4 !important; 
+}
+
+/* Days on WeekView (text) */ .MmhHI.KSxb4d.RKLVef.N4XV7d /*future*/ , span.ebZ3od.MANBAf /*past*/ {
+    color: white;
+}
+
+/* Time (text) */ span.ebZ3od.MANBAf {
+    color: white;
+}
+
+/* Weeks on MonthView (background) */ .akJTWe, .XnnJrc.Wyo4Qe .TKMrfe {
+    background: #2D314F !important;
+}
+
+/* --- Alert Dialog --- */
+/* AlertDialog*/ .VfPpkd-P5QLlc {
+    background: #2D314F !important;
+}
+
+/* AlertDialog Text*/ .VfPpkd-k2Wrsb-fmcmS {
+    color: white;
+}
+
+/* ███ HIDEN THINGS ███ */
+/* Right SidePanel */ .Kk7lMc-DWWcKd-OomVLb-haAclf.gboEAb {
+    display: none !important;
+}
+
+/* Google Apps */ .gb_d {
+    display: none !important;
+}
+
+/* Support button */ .h8Aqhb {
+    display: none !important;
+}
+
+/* Testing para ocultar el bloque en Event frame*/ .gb_Na:not(.gb_Oa) .gb_od {
+    padding: 0px;
+}
