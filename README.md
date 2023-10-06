@@ -6,8 +6,8 @@
 > - [Behance Project](https://www.behance.net/gallery/181447165/Google-Calendar-Dark-Mode-CSS)
 
 ## Collaborators
-- [mikeworldyt](https://github.com/mikeworldyt/)
-- [Rumi-November](https://github.com/Rumi-November)
+- [mikeworldyt (UX\UI Designer) ](https://github.com/mikeworldyt/)
+- [Rumi-November (role) ](https://github.com/Rumi-November)
 
 > If you like this Code and helped you 
 > And you considering support our job for continued development free
