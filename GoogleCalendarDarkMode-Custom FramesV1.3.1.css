@@ -17,10 +17,6 @@ READ ME: https://www.behance.net/gallery/181447165/Google-Calendar-Dark-Mode-CSS
     color: white !important;
 }
 
-/* horizontal divider  */ body[data-viewfamily=EVENT] .SGWAac, body[data-viewfamily=SCHEDULE] .SGWAac, body[data-viewfamily=SEARCH] .SGWAac, body[data-viewfamily=SETTINGS] .SGWAac, body[data-viewfamily=TRASH] .SGWAac, body[data-viewfamily=TASKS] .SGWAac {
-    border-color: #414872 !important;
-} 
-
 /* --- Nav SideBar --- */
 /* Side Bar */ .SGWAac {
     background-color: #191B2C !important;
@@ -76,7 +72,8 @@ READ ME: https://www.behance.net/gallery/181447165/Google-Calendar-Dark-Mode-CSS
 }
 
 /* Background */ :root {
-    --surface: #1D1F2B !important; 
+    --surface: #1D1F2B !important;
+    --hairline: #414872 !important; /* Primary border color */
 }
 
 /* --- Calendar Frame --- */
