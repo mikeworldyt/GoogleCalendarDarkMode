@@ -17,8 +17,8 @@
 > - Buy me a Coofee [Buy them](https://www.buymeacoffee.com/mikeworldyt)
 
 Contact us:
-- Discord = MikeWorldYt#5794
-- Discord = Ruminov#5532
-- [LinkedIn](https://www.linkedin.com/in/mikeworldyt/)
-- [Instagram](https://www.instagram.com/mikeworldyt/)
-- [Mail : mikeworldyt@gmail.com](mikeworldyt@gmail.com)
+- Programmer: Discord = Ruminov#5532
+- UX\UI Designer: Discord = MikeWorldYt#5794
+- UX\UI Designer: [LinkedIn](https://www.linkedin.com/in/mikeworldyt/)
+- UX\UI Designer: [Instagram](https://www.instagram.com/mikeworldyt/)
+- UX\UI Designer: [Mail : mikeworldyt@gmail.com](mikeworldyt@gmail.com)
