@@ -7,18 +7,19 @@
 
 ## Collaborators
 - [mikeworldyt (UX\UI Designer) ](https://github.com/mikeworldyt/)
-- [Rumi-November (role) ](https://github.com/Rumi-November)
+- [Rumi-November (add role) ](https://github.com/Rumi-November)
 
 > If you like this Code and helped you 
 > And you considering support our job for continued development free
 > Please do any or all of the options:
-> - Subscribe on [YouTube](https://www.youtube.com/mikeworld)
-> - Apprecite my projects on [Behance](be.net/mikeworldyt)
-> - Buy me a Coofee [Buy them](https://www.buymeacoffee.com/mikeworldyt)
+> - UX\UI Designer: Subscribe on [YouTube](https://www.youtube.com/mikeworld)
+> - UX\UI Designer: Apprecite my projects on [Behance](be.net/mikeworldyt)
+> - UX\UI Designer: Buy me a Coofee [Buy them](https://www.buymeacoffee.com/mikeworldyt)
+> - 
 
 Contact us:
-- Programmer: Discord = Ruminov#5532
-- UX\UI Designer: Discord = MikeWorldYt#5794
-- UX\UI Designer: [LinkedIn](https://www.linkedin.com/in/mikeworldyt/)
-- UX\UI Designer: [Instagram](https://www.instagram.com/mikeworldyt/)
-- UX\UI Designer: [Mail : mikeworldyt@gmail.com](mikeworldyt@gmail.com)
+> - Programmer: Discord = Ruminov#5532
+> - UX\UI Designer: Discord = MikeWorldYt#5794
+> - UX\UI Designer: [LinkedIn](https://www.linkedin.com/in/mikeworldyt/)
+> - UX\UI Designer: [Instagram](https://www.instagram.com/mikeworldyt/)
+> - UX\UI Designer: [Mail : mikeworldyt@gmail.com](mikeworldyt@gmail.com)
