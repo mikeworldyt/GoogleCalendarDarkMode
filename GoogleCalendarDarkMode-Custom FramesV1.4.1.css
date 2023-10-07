@@ -47,7 +47,7 @@ READ ME: https://www.behance.net/gallery/181447165/Google-Calendar-Dark-Mode-CSS
     color: #282828 !important;
 }
 
-/* Buttons (Fields) */ label.VfPpkd-fmcmS-yrriRe.VfPpkd-fmcmS-yrriRe-OWXEXe-mWPk3d.VfPpkd-ksKsZd-mWPk3d.VfPpkd-fmcmS-yrriRe-OWXEXe-di8rgd-V67aGc.VfPpkd-fmcmS-yrriRe-OWXEXe-MFS4be.WmnPA.gOPnwc, .VfPpkd-Jh9lGc, .hqBSCb:not(.VfPpkd-O1htCb-OWXEXe-OWB6Me) .VfPpkd-TkwUic, .xSJpA.nXeosb.QGLPie.nXeosb.sfX1i.CDELXb, .ry3kXd .MocG8c.KKjvXb, div#xDescIn, .Erb9le.CIy9F {
+/* Buttons (Fields) */ label.VfPpkd-fmcmS-yrriRe.VfPpkd-fmcmS-yrriRe-OWXEXe-mWPk3d.VfPpkd-ksKsZd-mWPk3d.VfPpkd-fmcmS-yrriRe-OWXEXe-di8rgd-V67aGc.VfPpkd-fmcmS-yrriRe-OWXEXe-MFS4be.WmnPA.gOPnwc, .VfPpkd-Jh9lGc, .hqBSCb:not(.VfPpkd-O1htCb-OWXEXe-OWB6Me) .VfPpkd-TkwUic, .xSJpA.nXeosb.QGLPie.nXeosb.sfX1i.CDELXb, .ry3kXd .MocG8c.KKjvXb, div#xDescIn, .Erb9le.CIy9F, , .dgjdGd .xZFe0d.xZFe0d:not(.VfPpkd-fmcmS-yrriRe-OWXEXe-B7I4Od), .HzPqad>:first-child, .Dc8KZd:not(.C55buf), .MOinHf, .Cg90Ad {
     background: #404040 !important;
 }
 
@@ -59,11 +59,11 @@ READ ME: https://www.behance.net/gallery/181447165/Google-Calendar-Dark-Mode-CSS
     color: white !important; 
 }
 
-/* Dropdown (Background) #2D314F */ .INBYpd:not(:disabled).VfPpkd-ksKsZd-mWPk3d-OWXEXe-AHe6Kc-XpnDCe, .q6oraf .VfPpkd-StrnGf-rymPhb, .OwNvm, ul.VfPpkd-rymPhb.r6B9Fd.bwNLcf.P2Hi5d.VfPpkd-OJnkse, .OA0qNb.ncFHed, .KjAqB .B7PAmc {
+/* Dropdown (Background) #2D314F */ .INBYpd:not(:disabled).VfPpkd-ksKsZd-mWPk3d-OWXEXe-AHe6Kc-XpnDCe, .q6oraf .VfPpkd-StrnGf-rymPhb, .OwNvm, ul.VfPpkd-rymPhb.r6B9Fd.bwNLcf.P2Hi5d.VfPpkd-OJnkse, .OA0qNb.ncFHed, .KjAqB .B7PAmc, .w8UdJc {
     background: #282828 !important; 
 }
 
-/* Selection of Dropdown(Background) */ .r6B9Fd .VfPpkd-rymPhb-ibnC6b.VfPpkd-rymPhb-ibnC6b-OWXEXe-gk6SMd, .nBhvye .OA0qNb .LMgvRb.KKjvXb {
+/* Selection of Dropdown(Background) */ .r6B9Fd .VfPpkd-rymPhb-ibnC6b.VfPpkd-rymPhb-ibnC6b-OWXEXe-gk6SMd, .nBhvye .OA0qNb .LMgvRb.KKjvXb, , .VKy0Ic[aria-selected=true] {
     background-color: #727272 !important; 
 }
 
