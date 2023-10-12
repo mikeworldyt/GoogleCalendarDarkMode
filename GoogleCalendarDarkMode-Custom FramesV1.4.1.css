@@ -59,11 +59,11 @@ READ ME: https://www.behance.net/gallery/181447165/Google-Calendar-Dark-Mode-CSS
     color: white !important; 
 }
 
-/* Dropdown (Background) #2D314F */ .INBYpd:not(:disabled).VfPpkd-ksKsZd-mWPk3d-OWXEXe-AHe6Kc-XpnDCe, .q6oraf .VfPpkd-StrnGf-rymPhb, .OwNvm, ul.VfPpkd-rymPhb.r6B9Fd.bwNLcf.P2Hi5d.VfPpkd-OJnkse, .OA0qNb.ncFHed, .KjAqB .B7PAmc, .w8UdJc {
+/* Dropdown (Background) #2D314F */ .INBYpd:not(:disabled).VfPpkd-ksKsZd-mWPk3d-OWXEXe-AHe6Kc-XpnDCe, .q6oraf .VfPpkd-StrnGf-rymPhb, .OwNvm, ul.VfPpkd-rymPhb.r6B9Fd.bwNLcf.P2Hi5d.VfPpkd-OJnkse, .OA0qNb.ncFHed, .KjAqB .B7PAmc, .JAPqpe.K0NPx, .ztKZ3d, .w8UdJc {
     background: #282828 !important; 
 }
 
-/* Selection of Dropdown(Background) */ .r6B9Fd .VfPpkd-rymPhb-ibnC6b.VfPpkd-rymPhb-ibnC6b-OWXEXe-gk6SMd, .nBhvye .OA0qNb .LMgvRb.KKjvXb, , .VKy0Ic[aria-selected=true] {
+/* Selection of Dropdown(Background) */ .r6B9Fd .VfPpkd-rymPhb-ibnC6b.VfPpkd-rymPhb-ibnC6b-OWXEXe-gk6SMd, .nBhvye .OA0qNb .LMgvRb.KKjvXb, span.z80M1.QJXRJc.FwR7Pc, .VKy0Ic[aria-selected=true] {
     background-color: #727272 !important; 
 }
 
@@ -102,7 +102,7 @@ READ ME: https://www.behance.net/gallery/181447165/Google-Calendar-Dark-Mode-CSS
 }
 
 /* --- Alert Dialog --- */
-/* AlertDialog*/ .VfPpkd-P5QLlc {
+/* AlertDialog*/ .VfPpkd-P5QLlc, .dT3uCc .oJeWuf, .OE6hId {
     background: #404040 !important;
 }
 
